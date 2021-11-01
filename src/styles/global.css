@@ -1,0 +1,13 @@
+body {
+  background-color: #ebebeb;
+  margin: 0;
+}
+
+html {
+  font-size: 10px;
+}
+
+a,
+button {
+  font-size: inherit;
+}
